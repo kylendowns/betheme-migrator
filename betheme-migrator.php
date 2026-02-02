@@ -7,7 +7,7 @@
  * Author URI:  https://sierraplugins.com
  * License:     GPL-2.0+
  * Requires PHP: 8.0
- * Requires at least: 5.2
+ * Requires at least: 5.8
  * Text Domain: betheme-content-migrator
  */
 
